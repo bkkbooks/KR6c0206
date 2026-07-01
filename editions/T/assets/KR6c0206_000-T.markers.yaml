@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6c0206/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6c0206_T_000-0314b, 'n': 0314b, ed: T, source_xml_id: T33.1707.0314b}
+  - {type: line-break, offset: 0, content: '', id: KR6c0206_T_000-0314b01, ed: T, 'n': 0314b01}
+  - {type: line-break, offset: 0, content: '', id: KR6c0206_T_000-0314b02, ed: T, 'n': 0314b02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6c0206_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6c0206_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6c0206_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6c0206_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '7', id: KR6c0206_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '0', id: KR6c0206_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '7', id: KR6c0206_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6c0206_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6c0206_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6c0206_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6c0206_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6c0206_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6c0206_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6c0206_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '2', id: KR6c0206_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '4', id: KR6c0206_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '5', id: KR6c0206_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: ']', id: KR6c0206_T_000-bkkpn18}
+  - {type: line-break, offset: 0, content: '', id: KR6c0206_T_000-0314b03, ed: T, 'n': 0314b03}
+  - {type: variant, offset: 155, length: 1, content: 校T33n1707_p0337a22, 大: 狹}
+  - {type: variant, offset: 635, length: 1, content: 障T33n1707_p0351c04, 大: 彰}
+  - {type: variant, offset: 1692, length: 1, content: 及T33n1707_p0322c18, 大: 乃}
+  - {type: variant, offset: 1815, length: 1, content: 春X26n0511_p0036a16, 大: 奉}
+  - {type: variant, offset: 1908, length: 1, content: 校T33n1707_p0337a22, 大: 狹}
+  - {type: variant, offset: 1916, length: 1, content: 校T33n1707_p0337a22, 大: 狹}
+  - {type: variant, offset: 1929, length: 1, content: 校T33n1707_p0337a22, 大: 狹}
+  - {type: variant, offset: 2170, length: 1, content: 忍, 大: 𢖫}
+  - {type: variant, offset: 2342, length: 1, content: 忍, 大: 𢖫}
+  - {type: variant, offset: 2403, length: 1, content: 忍, 大: 𢖫}
+  - {type: variant, offset: 2418, length: 1, content: 忍, 大: 𢖫}
+  - {type: variant, offset: 2421, length: 1, content: 方T38n1779_p0771a07, 大: ''}
+  - {type: variant, offset: 2434, length: 1, content: 忍, 大: 𢖫}
+  - {type: variant, offset: 2587, length: 1, content: 請X26n0511_p0011c21, 大: 清, 原: 請}
+  - {type: variant, offset: 2621, length: 1, content: 歡, 大: 勸}
+  - {type: variant, offset: 3437, length: 1, content: 說X26n0511_p0004a02, 大: 說}
+  - {type: variant, offset: 4117, length: 1, content: 會X26n0511_p0038a10, 大: 曾}
+  - {type: variant, offset: 4236, length: 1, content: 園, 大: 蘭}
+  - {type: variant, offset: 4561, length: 1, content: 歡TW33n1707_p0347a04T08n0245_p0830c14, 大: 歎}
+  - {type: variant, offset: 4622, length: 1, content: 有T25n1509_p0074c11, 大: 無}
+  - {type: variant, offset: 4692, length: 1, content: 四T33n1707_p0317b27, 大: 匹}
+  - {type: variant, offset: 4793, length: 1, content: 波, 大: 般}
+  - {type: variant, offset: 4912, length: 1, content: 己T33n1705_p0258c19, 大: 已}
+  - {type: variant, offset: 5328, length: 1, content: 禪, 大: 神}
+  - {type: variant, offset: 5987, length: 1, content: 婇, 大: 綵}
+  - {type: variant, offset: 6012, length: 1, content: 婇, 大: 綵}
+  - {type: variant, offset: 6343, length: 0, content: T37n1764_p0757b15, 大: 外}
+  - {type: variant, offset: 6496, length: 1, content: 己T33n1705_p0258c19, 大: 已}
+  - {type: variant, offset: 7614, length: 1, content: 飲T33n1708_p0415c18X41n0728_p0191c06, 大: 飲}
+  - {type: variant, offset: 7682, length: 1, content: 齋X41n0728_p0191c08, 大: 齋}
+  - {type: variant, offset: 8345, length: 1, content: 梵T08n0245_p0825a25, 大: ''}
+  - {type: variant, offset: 8457, length: 1, content: 界, 原: 眾}
+  - {type: variant, offset: 8566, length: 1, content: 率, 大: 卒}
+  - {type: variant, offset: 9298, length: 1, content: 薜T54n2128_p0357a10T54n2128_p0615b02, 大: 薛}
+  - {type: variant, offset: 9346, length: 1, content: 及T08n0245_p0825b05, 大: 乃}
+  - {type: variant, offset: 9582, length: 1, content: 齋T08n0245_p0833b24X26n0513_p0187c05, 大: 齊}
+  - {type: variant, offset: 9881, length: 1, content: 量X26n0511_p0033b02, 大: 最}
+  - {type: variant, offset: 10104, length: 1, content: 于T08n0245_p0833c08T33n1708_p0427a17, 大: 千}
+  - {type: variant, offset: 10891, length: 1, content: 己, 大: 已}
+  body: []
+  back: []
+hash: sha256:17b9a3727b2308edcd457cd7f68677c1811daaf4edcd1ae6c8e824666f627903

@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR6c0206/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0206/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 仁王般若經疏
+  identifiers:
+    krp: KR6c0206
+    cbeta: T33n1707
+    cbeta_old_id: T33n1707
+    authorityid: CA0002637
+    json_key: T1707
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1707.xml
+    old_id: T33n1707
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0206_000-T.yaml, hash: 'sha256:aa43949a88eaf0dbde8197cd938c3a51de5263fc7c894e46a7b3da6751c41252'}
+  - {seq: 2, filename: KR6c0206_002-T.yaml, hash: 'sha256:30fc40def7aed4db8b32c76d468db3d47c6378499a9edc47ca6282a3df3ce452'}
+  - {seq: 3, filename: KR6c0206_003-T.yaml, hash: 'sha256:0a8c68ae6a3873ad26dddbd737fcda372e0be32fd24645eefaa5bafa6f7342db'}
+  - {seq: 4, filename: KR6c0206_004-T.yaml, hash: 'sha256:1e007458cdb6be25b61b4a266c844180f2720ecde12052b291c42b472a3c298c'}
+  - {seq: 5, filename: KR6c0206_005-T.yaml, hash: 'sha256:275e5314f9a50cf636db9f23ace751a226922e515c533800b5687f9a22482c9d'}
+  - {seq: 6, filename: KR6c0206_006-T.yaml, hash: 'sha256:403f66a9b21597423ec0f82ceae34c8abd255216ec5d1295007b21c8feab8faf'}
+  - {seq: 7, filename: KR6c0206_007-T.yaml, hash: 'sha256:65f912bda0e63f58a69735d4d1478c69fead3e385acbff73da09869e9cc56e59'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0206_000-T.markers.yaml, hash: 'sha256:17b9a3727b2308edcd457cd7f68677c1811daaf4edcd1ae6c8e824666f627903'}
+  - {seq: 2, role: markers, filename: assets/KR6c0206_002-T.markers.yaml, hash: 'sha256:311d7fc5b1b8bdc2ea02c8e076ca4a767e076d44005c8d9444cd1d33aa087c3e'}
+  - {seq: 3, role: markers, filename: assets/KR6c0206_003-T.markers.yaml, hash: 'sha256:66543e80ed969aa6dad7cd95a299d8d04bf5bf661519b4daaad40b4ff06a77a7'}
+  - {seq: 4, role: markers, filename: assets/KR6c0206_004-T.markers.yaml, hash: 'sha256:a9739420c0775225c6e39fdda34c128b4f1eef0c9cad3d2da38c50452000a13a'}
+  - {seq: 5, role: markers, filename: assets/KR6c0206_005-T.markers.yaml, hash: 'sha256:d3dd2dc8c25c9c61ee9f172498e29367e99dd40ad284a92cc20370dfb0573bd6'}
+  - {seq: 6, role: markers, filename: assets/KR6c0206_006-T.markers.yaml, hash: 'sha256:35573beb98656d604c9d8050b11480ab91183d663b5dd47d7c44ec0bff94a060'}
+  - {seq: 7, role: markers, filename: assets/KR6c0206_007-T.markers.yaml, hash: 'sha256:aec732769f1a0f4b0e4ad71591ae4a4d91dcfe6f48c2e34f6d240e7bdea99348'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6c0206_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 10806
+  label: 仁王般若經疏卷上一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0206_T_001a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0206_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 9636
+  label: 仁王般若經疏卷上二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0206_T_001b-mulu-1
+    span:
+    - body
+    - 1715
+    - 1715
+  label: 2 觀空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0206_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 10343
+  label: 仁王般若經疏卷中三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0206_T_002a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 3 菩薩教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0206_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 11714
+  label: 仁王般若經疏卷中四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0206_T_002b-mulu-1
+    span:
+    - body
+    - 4900
+    - 4900
+  label: 4 二諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0206_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 11107
+  label: 仁王般若經疏卷下五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0206_T_003a-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 5 護國品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0206_T_003a-mulu-2
+    span:
+    - body
+    - 4330
+    - 4330
+  label: 6 散華品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0206_T_003a-mulu-3
+    span:
+    - body
+    - 5887
+    - 5887
+  label: 7 受持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0206_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 10958
+  label: 仁王般若經疏卷下六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0206_T_003b-mulu-1
+    span:
+    - body
+    - 8745
+    - 8745
+  label: 8 囑累品
+  type: mulu
+  level: 1
+hash: sha256:9c2bd0373248c37f50e7f2c085fa76558e7f7d8cda1d95515c629595bdbd0937
